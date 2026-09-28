@@ -1,13 +1,13 @@
-# Airbnb Price Prediction, Berlin
+# Airbnb Price Prediction Pipeline (Berlin)
 
-Predicting Airbnb listing prices in Berlin using tabular, text, and spatial features.
+A tabular and multimodal machine learning benchmark predicting Airbnb listing prices in Berlin using engineered tabular, text, and spatial features.
 
 ---
 
-## Team Members
-
-Sara Ossman, Qi Guan, Shrabona Mukherjee
-
+## Course Context & Team
+* **Course:** Machine Learning, University of Göttingen
+* **Team Members:** Sara Ossman, Qi Guan, Shrabona Mukherjee
+* **Repository Role:** End-to-end reproducible pipeline featuring data cleaning, multi-modal feature engineering, classical regression baselines, tree-based gradient boosting (LightGBM/XGBoost), and a PyTorch neural network regressor.
 ---
 
 ## Project structure
